@@ -24,4 +24,4 @@ A simple web-based food ordering system using **Java**, **JSP**, **MySQL**, and 
 
 ---
 
-Made with ❤️ by Sanket Suresh
+Made with  by Sanket Suresh
